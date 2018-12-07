@@ -1,4 +1,4 @@
-FROM library/ubuntu:16.04
+FROM library/ubuntu:18.04
 
 # https://github.com/facebook/react-native/blob/8c7b32d5f1da34613628b4b8e0474bc1e185a618/ContainerShip/Dockerfile.android-base
 
